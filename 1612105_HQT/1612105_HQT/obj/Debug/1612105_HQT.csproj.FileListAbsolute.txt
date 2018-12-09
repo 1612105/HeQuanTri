@@ -1,0 +1,11 @@
+C:\Users\trinh\Desktop\1612105_HQT\1612105_HQT\bin\Debug\1612105_HQT.exe
+C:\Users\trinh\Desktop\1612105_HQT\1612105_HQT\bin\Debug\1612105_HQT.pdb
+C:\Users\trinh\Desktop\1612105_HQT\1612105_HQT\obj\Debug\1612105_HQT.csprojAssemblyReference.cache
+C:\Users\trinh\Desktop\1612105_HQT\1612105_HQT\obj\Debug\_1612105_HQT.BaoCao.resources
+C:\Users\trinh\Desktop\1612105_HQT\1612105_HQT\obj\Debug\_1612105_HQT.Form1.resources
+C:\Users\trinh\Desktop\1612105_HQT\1612105_HQT\obj\Debug\_1612105_HQT.Form2.resources
+C:\Users\trinh\Desktop\1612105_HQT\1612105_HQT\obj\Debug\_1612105_HQT.Properties.Resources.resources
+C:\Users\trinh\Desktop\1612105_HQT\1612105_HQT\obj\Debug\1612105_HQT.csproj.GenerateResource.cache
+C:\Users\trinh\Desktop\1612105_HQT\1612105_HQT\obj\Debug\1612105_HQT.csproj.CoreCompileInputs.cache
+C:\Users\trinh\Desktop\1612105_HQT\1612105_HQT\obj\Debug\1612105_HQT.exe
+C:\Users\trinh\Desktop\1612105_HQT\1612105_HQT\obj\Debug\1612105_HQT.pdb

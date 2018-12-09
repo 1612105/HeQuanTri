@@ -1,0 +1,9 @@
+C:\Users\trinh\Desktop\1612105_HQT\1612105_Makebill\bin\Debug\1612105_Makebill.exe
+C:\Users\trinh\Desktop\1612105_HQT\1612105_Makebill\bin\Debug\1612105_Makebill.pdb
+C:\Users\trinh\Desktop\1612105_HQT\1612105_Makebill\obj\Debug\1612105_Makebill.csprojAssemblyReference.cache
+C:\Users\trinh\Desktop\1612105_HQT\1612105_Makebill\obj\Debug\_1612105_Makebill.Form1.resources
+C:\Users\trinh\Desktop\1612105_HQT\1612105_Makebill\obj\Debug\_1612105_Makebill.Properties.Resources.resources
+C:\Users\trinh\Desktop\1612105_HQT\1612105_Makebill\obj\Debug\1612105_Makebill.csproj.GenerateResource.cache
+C:\Users\trinh\Desktop\1612105_HQT\1612105_Makebill\obj\Debug\1612105_Makebill.csproj.CoreCompileInputs.cache
+C:\Users\trinh\Desktop\1612105_HQT\1612105_Makebill\obj\Debug\1612105_Makebill.exe
+C:\Users\trinh\Desktop\1612105_HQT\1612105_Makebill\obj\Debug\1612105_Makebill.pdb

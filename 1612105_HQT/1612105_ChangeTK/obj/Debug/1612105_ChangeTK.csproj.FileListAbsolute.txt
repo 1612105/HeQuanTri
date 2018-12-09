@@ -1,0 +1,9 @@
+C:\Users\trinh\Desktop\1612105_HQT\1612105_ChangeTK\bin\Debug\1612105_ChangeTK.exe
+C:\Users\trinh\Desktop\1612105_HQT\1612105_ChangeTK\bin\Debug\1612105_ChangeTK.pdb
+C:\Users\trinh\Desktop\1612105_HQT\1612105_ChangeTK\obj\Debug\1612105_ChangeTK.csprojAssemblyReference.cache
+C:\Users\trinh\Desktop\1612105_HQT\1612105_ChangeTK\obj\Debug\_1612105_ChangeTK.Form1.resources
+C:\Users\trinh\Desktop\1612105_HQT\1612105_ChangeTK\obj\Debug\_1612105_ChangeTK.Properties.Resources.resources
+C:\Users\trinh\Desktop\1612105_HQT\1612105_ChangeTK\obj\Debug\1612105_ChangeTK.csproj.GenerateResource.cache
+C:\Users\trinh\Desktop\1612105_HQT\1612105_ChangeTK\obj\Debug\1612105_ChangeTK.csproj.CoreCompileInputs.cache
+C:\Users\trinh\Desktop\1612105_HQT\1612105_ChangeTK\obj\Debug\1612105_ChangeTK.exe
+C:\Users\trinh\Desktop\1612105_HQT\1612105_ChangeTK\obj\Debug\1612105_ChangeTK.pdb
